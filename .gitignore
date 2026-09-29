@@ -1,0 +1,18 @@
+# Private raw genealogy exports
+*.ged
+*.gedcom
+*Family History*.zip
+*Family Tree*.zip
+raw/
+private/
+
+# Raw DNA / genotype exports
+AncestryDNA*.txt
+dna-data*.zip
+*.vcf
+*.bcf
+
+# Local analysis artifacts
+__pycache__/
+*.pyc
+.DS_Store
